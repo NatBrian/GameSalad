@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.6227">
+  <sounds />
+  <images>
+    <image name="images">
+      <file name="images.png" size="1044809" />
+    </image>
+    <image name="download">
+      <file name="download.png" size="146534" />
+    </image>
+    <image name="car2">
+      <file name="car2.png" size="2464" />
+    </image>
+    <image name="car1">
+      <file name="car1.png" size="22868" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>

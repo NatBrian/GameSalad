@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Table 1" numRows="10" numCols="5" flags="9" tableType="0">
+<rows>
+<row id="0" name=""/>
+<row id="1" name=""/>
+<row id="2" name=""/>
+<row id="3" name=""/>
+<row id="4" name=""/>
+<row id="5" name=""/>
+<row id="6" name=""/>
+<row id="7" name=""/>
+<row id="8" name=""/>
+<row id="9" name=""/>
+</rows>
+<columns>
+<column id="0" name="" type="1" readonly="0">¿Hay ___ s en la sopa?,¿Hay ___ para desayunar?,Tú pides ___ .,Tú pides el ___ .,Alguien come una ___ .,¿Qué quiere ___.,La ensalada es de ___.,El ___ es rojo.,Tú comes la ___.,Nosotros recibimos un pastel de ___.</column>
+<column id="1" name="" type="1" readonly="0">zanahoria,enchilados,lecha,almuerzo,jamon,comer,legumbre,pemento,carrothoria,piña</column>
+<column id="2" name="" type="1" readonly="0">manzana,enchiladas,leche,cena,hamburguesa,tomar,lucho,pimiento,manzana,mazapiña</column>
+<column id="3" name="" type="1" readonly="0">zanahora,tostadas,milko,aperitivo,burgera,cenar,lechuga,pegamiento,zanahoria,piñamanzana</column>
+<column id="4" name="" type="1" readonly="0">zanahoria,tostadas,leche,almuerzo,hamburguesa,comer,lechuga,pimiento,zanahoria,piña</column>
+</columns>
+</table>
+
